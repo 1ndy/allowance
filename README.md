@@ -1,4 +1,4 @@
 # allowance
-###plan. save. win.
+### plan. save. win.
  Earn virtual rewards for real life financial accomplishments
 <p>There’s no ignoring the fact that finance can be...a little boring. For those just starting a career especially, the idea of creating a long term financial plan is daunting, and saving money for emergencies feels like a waste. These important steps to becoming financially empowered are ignored and consequences for individuals and society can be severe. Allowance makes financial empowerment simple and fun by offering virtual rewards for real life achievements. By choosing a financial goal like buying a house or starting a family, users can see professionally recommended preparedness steps* to help them attain that goal. The app automatically tracks the user’s wealth and credit score, meaning the only thing they have to do to become financially empowered is play. Users can also choose to share their progress, making a once boring activity into a fun competition. Allowance lets the user plan financial decisions, save towards their goals, and win at financial empowerment.</p>
