@@ -10,16 +10,16 @@ Finances are hard. As kids, money seems so powerful. You get  a crisp $20 bill a
 ## What it does
 Allowance lets the user plan financial decisions, save towards their goals, and win at financial empowerment. It automatically tracks the player’s wealth and credit score, meaning the only thing they have to do to become financially empowered is play. To play, players choose a financial goal like buying a house or starting a family, and can see professionally recommended preparedness steps to help them attain that goal. Players compete against each other, turning a boring task into a fun competition.
 
-## How I built it
+## How we built it
 Because allowance is meant to feel like a game, (and for the sake of time) we chose unity as our primary technology. This allowed us to avoid tons of boilerplate code and instead focus on implementing our idea. It also doesn’t constrain us to a particular platform. 
 
-## Challenges I ran into
+## Challenges we ran into
 Unity is tough to work with for source control managers. So working on the project with teammates was a challenge doing it remotely. We solved this by minimizing the amount of changes done that could conflict during each push. 
 
-## Accomplishments that I'm proud of
+## Accomplishments that we are proud of
 Our team is proud of the application. We took an idea, and turned it into a fully functional proof of concept. The prototype we built does not have everything that we envisioned, simply due to the time restrictions. But we are proud of the working application that shows the workflow.
 
-## What I learned
+## What we learned
 We learned that Unity is overkill for this application. If we could do it again we definitely would use Unity however. Unity is so powerful because you don't need tons of code to make simple things work and look good. Because of time constrictions this was a huge factor in our decision. 
 
 ## What's next for Allowance 
