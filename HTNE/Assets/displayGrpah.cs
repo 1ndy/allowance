@@ -8,6 +8,7 @@ public class displayGrpah : MonoBehaviour
 
     public GameObject graph;
     public GameObject other1;
+    public GameObject score;
 
     public bool status;
     // Start is called before the first frame update
@@ -28,6 +29,7 @@ public class displayGrpah : MonoBehaviour
     public void toggleGraph()
     {
         graph.SetActive(!status);
+        score.SetActive(status);
         other1.SetActive(false);
         status = !status;
 
